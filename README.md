@@ -1,3 +1,4 @@
+COMPANY : CODTECH IT SOLUTIONS NAME : MANAS KUMAR INTERN ID : CTIS6553 DURATION : 8 WEEKS MENTOR : NEELA SANTOSH
 **Design and Implementation of a 4-Stage Pipelined Processor**
 
 In this task, I designed and implemented a 4-stage pipelined processor using Verilog and simulated it in Vivado. The main objective of this project was to understand the concept of pipelining in processor architecture and to implement a simple processor capable of executing basic instructions such as ADD, SUB, and LOAD.
