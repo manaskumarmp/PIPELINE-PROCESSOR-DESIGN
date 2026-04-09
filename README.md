@@ -24,3 +24,13 @@ One of the most important aspects of this design was the use of pipeline registe
 The design was simulated using a testbench in Vivado. The simulation results showed that multiple instructions were present in different stages of the pipeline at the same time. For example, while one instruction was in the Write Back stage, another was in the Execute stage, and a third was being decoded. This confirmed that the pipelining was functioning correctly.
 
 In conclusion, this project successfully demonstrated the working of a 4-stage pipelined processor. The implementation improved my understanding of processor design, data flow, and parallel execution. The outcome of this project was a functional pipelined processor design along with simulation waveforms that clearly show the operation of each stage. This project also highlighted the importance of pipeline registers and stage separation in achieving efficient processor performance.
+
+outcome:
+<img width="1919" height="1071" alt="Image" src="https://github.com/user-attachments/assets/65d2017d-a916-4b74-bcbc-cc447ca12610" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5f0af3a1-7a30-4fa6-8580-3e4d6917eaa1" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bc19254f-35b3-45d1-8515-9c32ac83594c" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/677c6bd3-748c-4323-a4ec-2fdf59678641" />
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/9578607d-de8e-48ef-bf37-bdd1b9f72718" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/14cf4942-9e36-4dd0-9890-4cf73e21eab3" />
+<img width="1919" height="1075" alt="Image" src="https://github.com/user-attachments/assets/31e1c0e2-a77c-4cb9-8aab-74ceba54507c" />
+<img width="1919" height="1074" alt="Image" src="https://github.com/user-attachments/assets/8ca7dd1e-032d-4974-88d9-8ad7f75e4e8d" />
