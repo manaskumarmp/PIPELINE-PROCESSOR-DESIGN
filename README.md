@@ -26,6 +26,7 @@ The design was simulated using a testbench in Vivado. The simulation results sho
 In conclusion, this project successfully demonstrated the working of a 4-stage pipelined processor. The implementation improved my understanding of processor design, data flow, and parallel execution. The outcome of this project was a functional pipelined processor design along with simulation waveforms that clearly show the operation of each stage. This project also highlighted the importance of pipeline registers and stage separation in achieving efficient processor performance.
 
 outcome:
+<img width="1919" height="1074" alt="Image" src="https://github.com/user-attachments/assets/8ca7dd1e-032d-4974-88d9-8ad7f75e4e8d" />
 <img width="1919" height="1071" alt="Image" src="https://github.com/user-attachments/assets/65d2017d-a916-4b74-bcbc-cc447ca12610" />
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5f0af3a1-7a30-4fa6-8580-3e4d6917eaa1" />
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bc19254f-35b3-45d1-8515-9c32ac83594c" />
